@@ -1,1 +1,3 @@
-# front-end-sandpit
+# front-end-sandpit 
+
+Bower, Gulp and Yemoan
